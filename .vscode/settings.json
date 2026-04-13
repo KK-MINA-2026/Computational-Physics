@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./Classical Electrodynamics/Electric Potential/src"
+    ]
+}

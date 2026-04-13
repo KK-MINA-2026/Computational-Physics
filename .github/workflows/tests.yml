@@ -19,5 +19,4 @@ jobs:
         pip install -r requirements.txt
 
     - name: Run tests
-      run: |
-        PYTHONPATH=. pytest
+      run: PYTHONPATH="Classical Electrodynamics/Electric Potential" pytest
